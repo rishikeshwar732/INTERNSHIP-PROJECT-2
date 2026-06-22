@@ -111,7 +111,7 @@ If you experience lag or slow frame rates, try the following:
 ---
 
 ## 🛠️ Built With
-
+- Python 3.11.9
 - [OpenCV](https://opencv.org/) — Real-time computer vision and webcam handling
 - [MediaPipe](https://mediapipe.dev/) — Face mesh and iris landmark detection
 - [NumPy](https://numpy.org/) — Numerical operations and coordinate math
@@ -124,7 +124,3 @@ If you experience lag or slow frame rates, try the following:
 - **Docs:** Refer to the inline comments in `main.py` for implementation details
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
